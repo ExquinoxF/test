@@ -1,0 +1,10 @@
+D:\C#\程序\Raffle Game\Raffle Game\Raffle Game\bin\Debug\Raffle Game.exe.config
+D:\C#\程序\Raffle Game\Raffle Game\Raffle Game\bin\Debug\Raffle Game.exe
+D:\C#\程序\Raffle Game\Raffle Game\Raffle Game\bin\Debug\Raffle Game.pdb
+D:\C#\程序\Raffle Game\Raffle Game\Raffle Game\obj\Debug\Raffle Game.csprojResolveAssemblyReference.cache
+D:\C#\程序\Raffle Game\Raffle Game\Raffle Game\obj\Debug\Raffle_Game.Form1.resources
+D:\C#\程序\Raffle Game\Raffle Game\Raffle Game\obj\Debug\Raffle_Game.Properties.Resources.resources
+D:\C#\程序\Raffle Game\Raffle Game\Raffle Game\obj\Debug\Raffle Game.csproj.GenerateResource.Cache
+D:\C#\程序\Raffle Game\Raffle Game\Raffle Game\obj\Debug\Raffle Game.exe
+D:\C#\程序\Raffle Game\Raffle Game\Raffle Game\obj\Debug\Raffle Game.pdb
+D:\C#\程序\Raffle Game\Raffle Game\Raffle Game\obj\Debug\Raffle_Game.Result.resources
